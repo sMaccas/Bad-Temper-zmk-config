@@ -7,4 +7,5 @@ Some notes about this config:
 - Default layer is Colemak DHm, but there's also a QWERTY layer that can be toggled on
 - Navigation layer has vim-like arrow keys
 
-[![Temper Keymap](keymap_img/temper.svg)](https://github.com/essFitt/Bad-Temper)
+![Temper Keymap](keymap_img/temper.svg)
+![Top view](https://github.com/essFitt/Bad-Temper/blob/main/images/IMG_2160.jpg)
