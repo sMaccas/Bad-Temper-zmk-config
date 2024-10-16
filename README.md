@@ -1,4 +1,4 @@
-# Temper ZMK Config
+# Bad Temper ZMK Config
 
 This is a ZMK config for the [Bad Temper](https://github.com/essFitt/Bad-Temper). 
 
