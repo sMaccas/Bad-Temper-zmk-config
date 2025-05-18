@@ -22,11 +22,11 @@ layers:
     - {t: ',', s: <}
     - {t: ., s: '>'}
     - /
-  - - ⌘
-    - CAPS
+  - - CAPS
     - {t: ⇧, s: ⇪}
-    - RET
+    - ⌘
     - SPACE
+    - RET
     - {t: BACKSPACE, s: Alt+BACKSPACE}
   qwerty:
   - [Q, W, E, R, T, Y, U, I, O, P]
