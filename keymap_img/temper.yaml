@@ -57,9 +57,9 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   num:
-  - - '~'
+  - - ESC
     - '@'
-    - '{'
+    - ↑
     - '}'
     - '%'
     - '*'
@@ -67,9 +67,9 @@ layers:
     - '8'
     - '9'
     - {t: '-', s: _}
-  - [^, '#', (, ), $, _, '4', '5', '6', +]
-  - - {t: '&', s: '|', type: held}
-    - <
+  - [^, ←, ↓, →, $, _, '4', '5', '6', +]
+  - - {type: held}
+    - ⎇
     - {t: '[', s: '{'}
     - {t: ']', s: '}'}
     - '>'
@@ -79,11 +79,11 @@ layers:
     - '3'
     - {t: '=', s: +}
   - - {t: ▽, type: trans}
+    - ↹
+    - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - '0'
-    - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
   nav:
   - - {t: ▽, type: trans}
     - {t: ▽, type: trans}
