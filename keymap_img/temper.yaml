@@ -24,7 +24,7 @@ layers:
     - /
   - - {t: ESC, h: CAPS}
     - {t: ⇧, s: ⇪}
-    - ⌘
+    - ↹
     - RET
     - SPACE
     - {t: BACKSPACE, s: Alt+BACKSPACE}
