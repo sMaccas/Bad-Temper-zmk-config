@@ -8,10 +8,10 @@ layers:
     - {t: F, h: LSHIFT}
     - G
     - H
-    - J
-    - K
-    - L
-    - {t: ;, s: ':'}
+    - {t: J, h: RSHIFT}
+    - {t: K, h: RCMD}
+    - {t: L, h: ⎇}
+    - {t: ;, h: ⌃, s: ':'}
   - - {t: Z, h: num}
     - X
     - C
@@ -22,11 +22,11 @@ layers:
     - {t: ',', s: <}
     - {t: ., s: '>'}
     - /
-  - - CAPS
+  - - {t: ESC, h: CAPS}
     - {t: ⇧, s: ⇪}
     - ⌘
-    - SPACE
     - RET
+    - SPACE
     - {t: BACKSPACE, s: Alt+BACKSPACE}
   qwerty:
   - [Q, W, E, R, T, Y, U, I, O, P]
