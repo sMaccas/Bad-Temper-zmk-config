@@ -3,31 +3,31 @@ layers:
   default:
   - Q
   - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
+  - F
   - P
+  - B
+  - J
+  - L
+  - U
+  - Y
+  - {t: ;, s: ':'}
   - {t: A, h: ⌃}
-  - {t: S, h: ⎇}
-  - {t: D, h: LCMD}
-  - {t: F, h: LSHIFT}
+  - {t: R, h: ⎇}
+  - {t: S, h: LCMD}
+  - {t: T, h: LSHIFT}
   - G
-  - H
-  - {t: J, h: RSHIFT}
-  - {t: K, h: RCMD}
-  - {t: L, h: ⎇}
-  - {t: ;, h: ⌃, s: ':'}
+  - M
+  - {t: N, h: RSHIFT}
+  - {t: E, h: RCMD}
+  - {t: I, h: ⎇}
+  - {t: O, h: ⌃}
   - {t: Z, h: num}
   - X
   - C
+  - D
   - V
-  - B
-  - N
-  - M
+  - K
+  - H
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - /
