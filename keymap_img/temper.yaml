@@ -2,7 +2,7 @@ layout: {zmk_keyboard: temper}
 layers:
   default:
   - [Q, W, E, R, T, Y, U, I, O, P]
-  - - {t: A, h: ⌃}
+  - - A
     - {t: S, h: ⎇}
     - {t: D, h: LCMD}
     - {t: F, h: LSHIFT}
