@@ -57,7 +57,7 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   num:
-  - - ESC
+  - - VOL UP
     - '@'
     - ↑
     - '}'
@@ -67,7 +67,7 @@ layers:
     - '8'
     - '9'
     - {t: '-', s: _}
-  - - ^
+  - - VOL DN
     - ←
     - ↓
     - →
