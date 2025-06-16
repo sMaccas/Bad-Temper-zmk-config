@@ -10,7 +10,7 @@ layers:
     - H
     - {t: J, h: RSHIFT}
     - {t: K, h: RCMD}
-    - '&bhm L'
+    - {t: L, h: ⎇}
     - {t: ;, h: ⌃, s: ':'}
   - - {t: Z, h: num}
     - X
