@@ -23,7 +23,7 @@ layers:
     - {t: ., s: '>'}
     - /
   - - {t: ESC, h: CAPS}
-    - {t: ⇧, s: ⇪}
+    - SPACE
     - ↹
     - RET
     - SPACE
